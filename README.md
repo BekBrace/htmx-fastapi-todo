@@ -1,5 +1,3 @@
-# Create the README.md content
-readme_content = """
 # FastAPI + HTMX Todo App 📝  
 
 A dynamic server-rendered Todo application built with **FastAPI** and **HTMX**. This project demonstrates how to integrate a high-performance Python web backend with a lightweight JavaScript library for building interactive frontends without writing much (or any) JavaScript!  
